@@ -1,8 +1,8 @@
 file_format: "1"
 id: ambi
-name: Ambi Numpad
+name: Ambi10
 type: shield
-url: https://github.com/f4ah6o/zmk-config
+url: https://github.com/Cerbekos/qmk_firmware/tree/v19_branch/keyboards/cerbekos/ambi10
 requires: [seeeduino_xiao_ble]
 features:
   - keys
